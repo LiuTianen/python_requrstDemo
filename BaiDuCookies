@@ -1,0 +1,12 @@
+#LWP-Cookies-2.0
+Set-Cookie3: BAIDUID="7938CCD3EEC3781124DB3AB60138F2AB:FG=1"; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2020-09-04 02:29:36Z"; version=0
+Set-Cookie3: BDUSS="dNLVJsSFFILX55eXZvU1I5LWZEeWdVOUw0Qk5-OFFLTGxCUVY4TlczWWxBSmhkSVFBQUFBJCQAAAAAAAAAAAEAAABsr-IJ3oiQ-QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACVzcF0lc3BdRm"; path="/"; domain=".baidu.com"; path_spec; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: BIDUPSID=7938CCD3EEC3781124DB3AB60138F2AB; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2087-09-23 05:44:03Z"; version=0
+Set-Cookie3: PSTM=1567650597; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2087-09-23 05:44:03Z"; version=0
+Set-Cookie3: HISTORY=e629a89dfa3f48913e6da73728fb5a90a59d3d4bc8f2ddb3cf; path="/"; domain=".passport.baidu.com"; path_spec; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: HOSUPPORT=1; path="/"; domain=".passport.baidu.com"; path_spec; expires="2027-11-22 02:29:37Z"; httponly=None; version=0
+Set-Cookie3: PTOKEN=201f880fcb1a41534e3e1438c59b867b; path="/"; domain=".passport.baidu.com"; path_spec; secure; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: SAVEUSERID=7893990a222b9dde08781424e2c02191ec1ce16fb9; path="/"; domain=".passport.baidu.com"; path_spec; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: STOKEN=ef8cb8121fc8718d82d86e7fab9134e0e0a7d2eed299090ceacff0740eacde7f; path="/"; domain=".passport.baidu.com"; path_spec; secure; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: UBI="fi_PncwhpxZ%7ETaJc1sZccZeSSr4Ohr5AyQJLOXY25riCpy4jKNlLIGsP7WBb6AsG7vs7cOyN%7E9nY62cC4YS"; path="/"; domain=".passport.baidu.com"; path_spec; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
+Set-Cookie3: USERNAMETYPE=2; path="/"; domain=".passport.baidu.com"; path_spec; expires="2027-11-22 02:29:57Z"; httponly=None; version=0
